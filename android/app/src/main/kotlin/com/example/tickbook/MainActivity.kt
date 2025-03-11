@@ -1,4 +1,4 @@
-package com.example.tickbook
+package com.ryanprw.tickbook
 
 import io.flutter.embedding.android.FlutterActivity
 

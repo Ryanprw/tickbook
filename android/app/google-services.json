@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594574082502",
+    "project_id": "tickbook-c0a4e",
+    "storage_bucket": "tickbook-c0a4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594574082502:android:660b76eafccb3475a132c7",
+        "android_client_info": {
+          "package_name": "com.ryanprw.tickbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594574082502-mrmdao2uuvm21ce0i99eaasd64uk4t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWy3V2mT6oW7hUtgfWXP9CCGNYSsN3NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594574082502-mrmdao2uuvm21ce0i99eaasd64uk4t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
